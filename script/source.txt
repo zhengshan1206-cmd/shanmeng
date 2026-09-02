@@ -1,0 +1,9 @@
+华为应用市场,huawei,d0df91f522777000,2564
+应用宝,tencent,ae61970aad4a48ca,2572
+vivo,vivo,cc6beb9ddaa34754,2566
+小米,xiaomi,8641771b33d84756,2567
+oppo,oppo,3bfe82974c14e889,2565
+快手,kwai,b6e1d23b410ad5ac,2570
+头条,headlines,48e2ff5d4f3904cf,2569
+荣耀,huaweiHonor,336a96bb1c90846d,2568
+百度默认,baidu,b9e8f08e1da8746e,2571

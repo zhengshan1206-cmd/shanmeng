@@ -1,0 +1,17 @@
+###
+
+当前文件夹放入项目文件中，与lib同级目录
+
+执行顺序：
+1、当前目录拉取最新代码(详细参考git操作)
+  `git pull`
+2、执行脚本
+  `bash script/pkg.sh`
+等待脚本执行，输出包名均在output文件夹内
+备注，上述脚本只生成单个apk文件，用于测试, 位于output/one文件夹
+所有渠道包使用以下脚本，包位于output/all文件夹
+  `bash script/pkg.sh --all`
+单个iOS包使用以下脚本，包位于output/ios文件夹
+  `bash script/pkg.sh --ios`
+
+###
